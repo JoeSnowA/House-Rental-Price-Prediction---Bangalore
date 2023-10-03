@@ -1,0 +1,14 @@
+#Conclusion
+
+Based on the feature importance given by Best Machine Learning Algorithm(Extreme Gradient Boosting)-Person who's looking for rent a house should Focus on the features of order given below to build homes that fetch more money:
+
+Property size
+No. of Bathrooms
+Type of the House (bhk3 and bhk4 is a best choice)
+Prefer House keeping contained house
+No. of Floors
+Tenants(Bachelor) has more advantages than others
+Tenants should focus on Locality, Furnishing, and swimming pool.
+Regarding House type, IH(independent house) and AP(Apartmet) should be better
+Rent plays a major roll here
+All other amenities equally affected price and those are Tenant's own wish based on the graph above
