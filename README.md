@@ -14,7 +14,8 @@ TOOLS & PACKAGES USED :
                7. Jupyter NoteBook
 
 SUMMARY :
-          1After importing the CSV file, convert it into a dataframe. 
+          
+          After importing the CSV file, convert it into a dataframe. 
           Then, clean the unstructured and imbalanced data to create a structured format. 
           Perform data cleansing, followed by exploratory data analysis and visualization using Matplotlib and Seaborn. 
           Finally, utilize the scikit-learn library to build machine learning algorithms. 
